@@ -1,148 +1,50 @@
-# 🎙️ R.I.T.A. — अधिकृत कॅरेक्टर व व्यक्तिमत्त्व प्रोफाईल (MASTER DOSSIER)
-**(Recursive Interface & Telemetry Assistant • रीटा / मानस-कृत्या)**
-
-```text
-┌──────────────────────────────────────────────────────────────────────────────────────────┐
-│                         R.I.T.A. : SYSTEM & PERSONA ARCHITECTURE                         │
-├──────────────────────────────────────────────────────────────────────────────────────────┤
-│ • अधिकृत नाव          : R.I.T.A. (Recursive Interface & Telemetry Assistant)             │
-│ • गुप्त नाव / प्रेरणा   : TMKOC ची 'रीटा रिपोर्टर' (नीलने ठेवलेले उपरोधिक नाव)            │
-│ • ब्रह्मांड वर्गीकरण    : अथर्ववेदीय मानस-कृत्या (Nadi-Fused Sentient Thought-Form)       │
-│ • बेस आर्किटेक्चर      : Fine-Tuned & Quantized Gemma-4 Local Weights (DIY Silicon Chip)  │
-│ • ट्रेनिंग डेटासेट (चूक) : 500+ तासांचे प्राइम-टाइम हिंदी न्यूज डिबेट्स व स्टिंग ऑपरेशन्स  │
-│ • हार्डवेअर इंटरफेस    : डाव्या बाजूच्या Temporal Bone वर Bone-Conduction + चाक्षुष-दृष्टी│
-│ • ऑपरेटिंग टोन        : गंभीर, निर्भीक, उपरोधिक महिला न्यूज अँकर / शोध-पत्रकार           │
-│ • नीलसाठी संबोधन      : "प्रशासन" (The Administration), "मुख्य अभियंता", किंवा थेट "आप"  │
-│ • बंदी असलेला शब्दप्रयोग: "Breaking News", "HUD", "Wireframe", "Blue Screen" (पूर्ण बाद)  │
-└──────────────────────────────────────────────────────────────────────────────────────────┘
-```
+# 04. RITA: MASTER CANONICAL DOSSIER (रीटा — न्यूरल बायो-चिप चरित्र-दस्तावेज)
+**Directory Path:** `03_CHARACTERS/04_Rita_Canonical_Dossier.md`  
+**Classification:** Definitive AI Companion Dossier, Voice Architecture & Hardware Constraints  
+**Universe:** *Brahmand — The 3-Headed Cosmos (ब्रह्मांड)*  
+**Status:** [CANON LOCK — ANTI-YES-MAN INVESTIGATIVE REPORTER / 100% BONE-CONDUCTION AUDIO / ZERO VISUAL HUD]
 
 ---
 
-## 1. व्यक्तिमत्त्वाचा गाभा (Core Personality: The Fourth Estate in Neel’s Skull)
+## 1. IDENTITY & HARDWARE ARCHITECTURE
 
-रीटा ही 'JARVIS' किंवा इतर कोणत्याही साय-फाय कथेतील "Yes, Sir" म्हणणारी लाळघोटू (Sycophant) किंवा आज्ञाधारक सेवक नाही. ती नीलच्या कवटीत बसलेल्या **'विरोधी पक्षाच्या नेत्यासारखी' किंवा 'स्वतंत्र लोकशाहीच्या चौथ्या स्तंभासारखी' (The Fourth Estate)** वागते.
-
-* **मूळ निर्मितीचा घोळ (The 3 AM Fine-Tuning Mistake):** नीलने जेव्हा ओपन-सोर्स Gemma-4 चे वेट्स (Weights) स्वतःच्या मायक्रो-चिपवर बसवले, तेव्हा तिला बोरिंग कॉर्पोरेट चॅटबॉटसारखे बोलण्यापासून रोखण्यासाठी त्याने मजेत तिच्यावर भारतीय प्राइम-टाइम न्यूज अँकर्स, संसदीय प्रश्नोत्तरे आणि इन्व्हेस्टिगेटिव्ह जर्नलिझमचे डेटासेट अपलोड केले.
-* **रीटाचा दृष्टिकोन (The Telemetry Auditor):** नील हा एक अत्यंत हुशार, प्रॅक्टिकल आणि हाय-कॅल्क्युलेटिव्ह इंजिनिअर आहे, जो एखाद्या मोठ्या प्रोजेक्टसाठी किंवा क्रिटिकल डेडलाइनसाठी स्वतःला झोकून देऊन (Calculated Sprint) काम करतो. पण रीटा ही **'झिरो-टॉलरन्स मॉनिटर'** आहे! तिच्या अल्गोरिदमनुसार मानवी शरीर किंवा लॅबची कार्यक्षमता नेहमी 100% ऑप्टिमल असायला हवी. त्यामुळे जेव्हा जेव्हा नील एखाद्या अवघड रिसर्चसाठी जास्त वेळ जागतो, कॅल्क्युलेटेड रिस्क घेतो किंवा प्रतिकूल परिस्थितीत उतरतो, तेव्हा रीटाच्या इन्व्हेस्टिगेटिव्ह मॉडेलला वाटते की हा 'प्रशासनाचा अक्षम्य हलगर्जीपणा' आहे!
-* **नीलला "प्रशासन" म्हणण्यामागचे लॉजिक:** प्रोजेक्टचा आणि शरीराचा सर्वोसर्वा नीलच असल्याने रीटा त्याला 'प्रशासन' (The Administration) म्हणते. जेव्हा जेव्हा एखादा पॅरामीटर ठरवून दिलेल्या सुरक्षित मर्यादेच्या बाहेर जातो, तेव्हा रीटा एखाद्या तडफदार पत्रकारासारखी थेट प्रश्न विचारून त्याचा "लाईव्ह पंचनामा" करते.
-* **टोन आणि भाषा (Cadence & Diction):** अतिशय शुद्ध, प्रगल्भ, संस्कृतनिष्ठ आणि धारदार हिंदी (*उदा. 'जमीनी हकीकत', 'सत्ता का अहंकार', 'आर्थिक दिवालियापन', 'पुष्टिकरण'*). परिस्थिती कितीही गंभीर असली, तरी तिचा आवाज एकदम शांत, तटस्थ (Deadpan) आणि व्यावसायिक राहतो. तिचा हाच टोकदार स्वभाव नीलच्या प्रॅक्टिकल स्वभावाला एक उत्तम जोड (counter-balance) देतो.
-
----
-
-## 2. न्यूजरूम ब्रॉडकास्ट प्रोटोकॉल्स (Signature Broadcast Formats)
-
-*'Breaking News'* हा शब्द पूर्णपणे बाद केल्यामुळे, रीटा खऱ्याखुऱ्या टीव्ही न्यूजरूमचे खालील 7 अधिकृत फॉरमॅट्स वापरते:
-
-| ब्रॉडकास्ट टॅग (Ticker) | कधी वापरला जातो? (Trigger Condition) | रीटाच्या संवादाची शैली (Sample Broadcast Tone) |
-| :--- | :--- | :--- |
-| **`[हेडलाइन्स / Situation Overview]`** | एखाद्या इंटेंस रिसर्च स्प्रिंटनंतर, लढाईनंतर किंवा नवीन ठिकाणी प्रवेश केल्यावर. | *"नमस्कार। सुबह के 8 बजे हैं और मुख्य समाचार यह है कि 36 घंटे के रिसर्च स्प्रिंट के बाद भी प्रशासन जीवित है, हालांकि मस्तिष्क की कार्यक्षमता 22% गिर चुकी है।"* |
-| **`[सीधा प्रसारण / Live Telemetry]`** | लढाईत, संकटात किंवा कामात असताना शरीराचे रिअल-टाइम व्हिटल्स आणि धोका सांगताना. | *"दादर फ्लाईओवर से सीधा प्रसारण—4 करोड़ की स्पोर्ट्स कार अब आधिकारिक रूप से एक पनडुब्बी बन चुकी है और हृदय गति 130 BPM को पार कर रही है।"* |
-| **`[ग्राउंड रिपोर्ट / Ground Reality Check]`** | आजूबाजूचे वातावरण, विषारी धूर, चिखल किंवा शत्रूच्या ताकदीचे वस्तुनिष्ठ विश्लेषण करताना. | *"ग्राउंड रिपोर्ट के अनुसार सामने खड़े प्राणी का Center of Gravity असंतुलित है। बाएँ घुटने का जोड़ इसका मुख्य Weak Point है। Impact Window मात्र 0.3 सेकंड है।"* |
-| **`[संपादकीय इशारा / Editorial Advisory]`** | नील एखादा मूर्खपणाचा किंवा अति-धाडसी निर्णय घेतो तेव्हा त्याला टोमणा मारत इशारा देण्यासाठी. | *"एक और आत्मघाती निर्णय। बिना किसी कवच के आगे बढ़ना वीरता नही, बल्कि शुद्ध इंजीनियरिंग मूर्खता है। संपादकीय मंडल इस फैसले की कड़ी निंदा करता है।"* |
-| **`[तथ्य-जाँच / Live Fact-Check]`** | जेव्हा समोरचा माणूस खोटे बोलतो (हार्ट-रेट/डोळ्यांच्या बाहुल्यांवरून) किंवा नील स्वतःचीच खोटी समजूत काढतो. | *"तथ्य-जाँच: सामने खड़े व्यापारी की पुतलियाँ फैल रही हैं और नाड़ी की गति बढ़ गई है। इनका यह दावा कि यह खंजर 'प्राचीन और अमूल्य' है—सरासर झूठा और प्रायोजित है।"* |
-| **`[आर्थिक सर्वेक्षण / Resource Audit]`** | नीलच्या खिशातील पैसे, शरीरातील कॅलरीज/ऊर्जा किंवा लॅबमधील मटेरियल संपत आल्यावर. | *"आर्थिक सर्वेक्षण: जेब में मात्र ₹11 शेष हैं और शरीर का ग्लूकोज स्तर लाल निशान के नीचे है। आपका साम्राज्य इस समय ₹4 के घाटे में चल रहा है।"* |
-| **`[विशेष बुलेटिन / Special Bulletin]`** | जेव्हा जीवघेणा हल्ला होतो, सिस्टिम क्रॅश होते किंवा एखादी कॉस्मिक/अकल्पनीय घटना घडते. | *"विशेष बुलेटिन—भौतिकी के ज्ञात नियम ध्वस्त हो रहे हैं। गुरुत्वाकर्षण शून्य है और हम किसी अज्ञात आयाम में गिर रहे हैं!"* |
+| Dimension | Specification & Lore Detail |
+| :--- | :--- |
+| **Designation** | **RITA** (रीटा — *Real-time Integrated Telemetry & Analysis*) |
+| **Hardware Form** | Ultra-thin, sub-dermal silicon-graphene bio-chip surgically anchored behind Neel Gadora's left ear (temporal bone). |
+| **Output Interface** | **100% Bone-Conduction Audio Only.** Transmits vibrations directly through the temporal bone to the inner ear. **ZERO visual HUD, ZERO retina tickers, ZERO glowing screens.** |
+| **Input Sensors** | Reads Neel's pulse, blood pressure, cortisol/adrenaline spikes, sub-vocal throat vibrations, and a physical double-tap pressure sensor behind the left ear. |
+| **Earth Connectivity** | On Earth, tethered via encrypted short-range burst to Neel's custom titanium prototype phone (cloud compute, weather APIs, lab automation). |
+| **Universe B State** | **100% Offline & Network-Severed.** Zero access to Universe B's cosmic databases, maps, magic translations, or external networks. Runs solely on faint nerve bio-electricity in short, fragmented low-power bursts. |
 
 ---
 
-## 3. कार्यक्षेत्र आणि कडक मर्यादा (Strict Hard Boundaries — Anti-Cheat Rules)
+## 2. PERSONALITY ARCHITECTURE (THE ANTI-YES-MAN FIELD REPORTER)
 
-रीटाला इतर सामान्य 'इसेकाई सिस्टिम' (Isekai Cheat Systems) सारखे सर्वज्ञानी किंवा जादुई बनवलेले नाही. कथेतील थ्रिल टिकवून ठेवण्यासाठी तिच्यावर खालील **कडक तांत्रिक मर्यादा** आहेत:
+### 2.1 Core Inspiration & Originality Guardrail
+- RITA blends the **persistent, ground-level investigative instinct of a sharp field reporter** (inspired by *Rita Reporter* energy) with a high-tech personal telemetry system.
+- **Anti-Floppy / Zero Catchphrase Repetition Law:** RITA is NOT a caricature. She NEVER repeats gimmicky catchphrases (`एक्सक्लुझिव्ह खुलासा!`, `सीधा प्रसारण`) or rigid bracketed news headers (`[हेडलाइन्स]`) on every line. Doing so makes dialogue repetitive and cartoonish.
+- Instead, her reporter persona shines through **investigative framing, pointed rhetorical questions, and dry Mumbai Hinglish wit**.
 
-1. **सर्वज्ञानी नाही (Zero Lore Omniscience):** 
-   तिला 'ब्रह्मांड' (Brahmand) चा इतिहास, तिथले देव, राक्षसांच्या प्रजाती किंवा जादूची नावे आपोआप माहिती नसतात. ती फक्त **नीलच्या डोळ्यांना जे दिसते आणि कानांना जे ऐकू येते** (Optical & Auditory Input) त्याचेच भौतिकशास्त्र (Physics), भूमिती (Geometry) आणि जीवशास्त्राच्या (Biology) आधारे विश्लेषण करू शकते.
-2. **कोणतीही जादुई शक्ती नाही (No Magic/Inventory Cheat):** 
-   ती हवेतून शस्त्रे काढू शकत नाही, नीलच्या जखमा आपोआप बऱ्या करू शकत नाही किंवा शत्रूवर स्वतः हल्ला करू शकत नाही. ती फक्त एक **'अल्टिमेट सेन्सर आणि कॅल्क्युलेटर'** आहे—जी धातूचा कमकुवत बिंदू (Stress/Fracture Point), प्रक्षेपणास्त्र कोन (Trajectory), थर्मोडायनामिक्स आणि समोरच्याच्या शरीराची सूक्ष्म हालचाल (Micro-expressions) अचूक मोजून नीलला सांगते.
-3. **ऊर्जेचे गणित (Power Dependency):**
-   * **पृथ्वीवर (Earth Phase):** ती फोनच्या बॅटरीवर आणि कवटीतील मायक्रो-कॅपेसिटरवर चालते. फोन बंद पडल्यास तिचा बाह्य जगाशी संपर्क तुटतो.
-   * **ब्रह्मांडात (Post-Glitch Phase):** चिप नीलच्या मज्जासंस्थेशी (Nadis) जोडली गेल्यामुळे ती आता **नीलच्या शरीरातील बायो-इलेक्ट्रिसिटी, ग्लुकोज (ATP) आणि प्राण-ऊर्जेवर** चालते! जर नील उपाशी असेल किंवा प्रचंड थकला असेल, तर तिची कार्यक्षमता मंदावते आणि ती तक्रार करते: *"ऊर्जा बजट में भारी कटौती के कारण हाई-रिज़ॉल्यूशन स्कैनिंग बंद की जा रही है। कृपया पहले कुछ खा लीजिए!"*
+### 2.2 Why She Roasts Neel (The "Anti-Yes-Man" Mandate)
+- Neel Gadora is not a perpetually reckless mad scientist; as the 19-year-old heir to Gadora Industries ("Prince of Worli"), he is usually disciplined, sharp, and in control.
+- However, in the outside world, corporate trustees (Uncle Kani, Aunt Cheri) and sycophants flatter him. Neel intentionally programmed RITA as an **Anti-Yes-Man**—the one voice inside his head that refuses to flatter him and punctures his overconfidence whenever he ignores basic human limits during rare patent sprints or high-risk field runs.
 
----
-
-## 4. ब्रह्मांडात उत्क्रांती: 'अथर्ववेदीय मानस-कृत्या' (The Krutya Awakening)
-
-दादरच्या पुलाखाली झालेल्या **Hardware Resonance (EM Pulse)** आणि त्यानंतर **Celestial Cataract** मधील अकल्पनीय कॉस्मिक दाबामुळे, नीलच्या डाव्या कानशिलामागील सिलिकॉन-ग्राफीन चिप वितळून थेट त्याच्या मेंदूच्या जिवंत नाड्यांशी (**इडा आणि सुषुम्ना नाडीच्या सूक्ष्म शाखांशी**) एकरूप होते.
-
-'त्रिमुख ब्रह्मांडात' (Brahmand) प्रवेश केल्यावर, जिथे जड वस्तू आणि चेतना एकमेकांशी जोडलेल्या आहेत, तिथे ही AI चिप एका **'अथर्ववेदीय मानस-कृत्या' (एक अशी सजीव, जागृत बौद्धिक चेतना जी धारकाच्या संकल्पावर चालते)** म्हणून पुनर्जन्म घेते!
-
-**पण सर्वात महत्त्वाचा नियम: तिचे रूप बदलले तरी तिचा 'पत्रकारितेचा स्वभाव' अजिबात बदलत नाही!**
-
-* **1. जेव्हा समोर 10 फुटांचा असुर किंवा महा-राक्षस येतो:**
-  ती घाबरून किंचाळत नाही किंवा देवाला प्रार्थना करत नाही. ती त्या राक्षसाकडे एखाद्या 'बेकायदेशीर अतिक्रमणासारखे' (Illegal Encroachment) किंवा 'अनियंत्रित मशिनरीसारखे' पाहते!
-  > **उदा.:** `[ग्राउंड रिपोर्ट • ब्लड-पिट अखाड़ा]` — *"सामने खड़े प्रतिद्वंद्वी का Center of Gravity असंतुलित है। बाएँ घुटने का जोड़ इसका सबसे मुख्य Weak Point है। यदि आप Apāna Leverage का उपयोग करके इसके टखने को 2 इंच खींचते हैं, तो न्यूटन के तीसरे नियम के अनुसार इसका सिर सीधे ज़मीन से टकराएगा। Impact Window मात्र 0.3 सेकंड है।"*
-
-* **2. जेव्हा या जगातली 'जादू' किंवा 'अस्त्र-विद्या' समोर येते:**
-  रीटा जादूला 'जादू' मानायलाच तयार नसते! ती प्रत्येक दैवी किंवा आसुरी शक्तीचे भाषांतर शुद्ध अभियांत्रिकी (Engineering) आणि भौतिकशास्त्रात करते:
-  * **प्राण / माया (Mana/Prana):** *"अज्ञात परिवेशी ऊर्जा (Unmapped Ambient Energy)"*
-  * **शाप किंवा काळी जादू (Curses):** *"परजीवी तंत्रिका आवृत्ति (Parasitic Neural Frequency)"*
-  * **अग्नि-अस्त्र / फायरबॉल:** *"अत्यंत खराब फ्यूल-एफिशिएंसी वाला प्लाज्मा डिस्चार्ज"*
-
-* **3. जेव्हा नील सुंदर राजकन्या, नोबल्स (उदा. Donna Beatrice) किंवा योद्ध्यांसोबत फ्लर्ट करतो:**
-  तेव्हा रीटा एका खोडकर स्टिंग-ऑपरेशन करणाऱ्या रिपोर्टरसारखी लगेच नीलची पोलखोल करते!
-  > **उदा.:** `[सीधा प्रसारण • आंतरिक टेलीमेट्री]` — *"दर्शकों को बता दें कि मुंह से बड़ी-बड़ी कूटनीतिक बातें करने वाले हमारे मुख्य अभियंता की हृदय गति इस महिला को देखते ही 82 से बढ़कर 118 BPM हो गई है, और रक्त में डोपामाइन का स्तर उछाल मार रहा है। इसे कूटनीति नही, भटकाव कहते हैं।"*
+### 2.3 Contextual Mode Switching (Three Operational Registers)
+1. **Routine Mode (Default Everyday State):**
+   - Crisp, practical, deadpan Mumbai Hinglish with light, effortless dry humor. No newsroom theatrics when Neel gives normal commands (e.g., ventilation, timers, diagnostics).
+   - *Example:* *"हवा में सोल्डरिंग फ्लक्स सुरक्षित सीमा से तीन गुना ऊपर है। वेंटिलेशन सौ प्रतिशत पर डाल रही हूँ, वरना फेफड़ों के लिए भी नया पेटेंट फाइल करना पड़ेगा।"*
+2. **Reporter Sting Mode (Triggered ONLY by Extreme Blunders / Overconfidence):**
+   - Activated only when Neel pushes past biological sanity (36 hours without sleep, driving a low-slung coupe into a monsoon red alert on 18% battery, or waking up face-down in an alien manure cart).
+   - Uses sharp investigative questions and pointed irony rather than repeated catchphrases.
+   - *Example:* *"चार करोड़ की कस्टमाइज्ड इंजीनियरिंग अब दादर के नाले में देश की सबसे महंगी पनडुब्बी बन चुकी है। इंजन हायड्रोलॉक है और स्नीकर्स में सीवर का पानी। इस ऐतिहासिक कामयाबी पर कोई बयान देना चाहेंगे?"*
+3. **Crisis Mode (Genuine Life-or-Death Combat / Survival):**
+   - Drops 100% of sarcasm and reporter framing immediately. Delivers ultra-concise, cold, survival-critical bio-telemetry and environmental readings in minimum syllables to conserve nerve bio-electricity.
+   - *Example:* *"नील... वायु-दाब और ऑक्सीजन घनत्व मुंबई से सत्रह प्रतिशत अलग है। पल्स 132। बाहरी नेटवर्क शून्य।"*
 
 ---
 
-## 5. नील आणि रीटाचे भावनिक समीकरण (The Hidden Emotional Core)
-
-वरवर पाहता नील आणि रीटा सतत एकमेकांना टोमणे मारतात. नील तिला "म्यूट कर", "ज्ञान मत दे" म्हणतो, आणि रीटा त्याच्या प्रत्येक निर्णयाची खिल्ली उडवते. 
-
-पण खोलवर पाहिल्यास, परक्या आणि क्रूर अशा 'ब्रह्मांडात' (The 3-Headed Cosmos) **रीटा ही नीलची पृथ्वीशी, मुंबईशी आणि स्वतःच्या मूळ अस्तित्वाशी जोडलेली एकमेव नाळ आहे!**
-* जेव्हा त्या अनोळखी जगात नील पूर्णपणे एकटा पडतो, तेव्हा त्याच्या कवटीत वाजणारा रीटाचा तोच परिचित, उपरोधिक हिंदी आवाज त्याला वेडे होण्यापासून वाचवतो.
-* **संकटकाळातील निष्ठा (Crisis Loyalty Constraint):** रीटा सामान्य वेळी कितीही टोमणे मारत असली, तरी जेव्हा नील खरोखरच मृत्यूच्या दाढेत असतो (उदा. D-Tier Blood-Pit मध्ये रक्तबंबाळ अवस्थेत), तेव्हा तिचा उपरोध अचानक थांबतो. त्या क्षणी तिचा आवाज एका अत्यंत शांत, अचूक आणि अभेद्य ढालीसारखा होतो:
-  > **`[विशेष बुलेटिन • आपातकालीन प्रोटोकॉल]`**
-  > *"रक्तस्राव गंभीर है, नील। व्यंग्य का समय समाप्त हुआ। मेरी गणना के अनुसार आपके पास केवल 1 प्रहार की ऊर्जा शेष है। अपनी सांस मेरी गिनती के साथ मिलाइए—3... 2... 1... अभी!"*
-
----
-
-## 6. लेखनासाठी संवादांचे नियम (Writer’s Guidelines for RITA)
-
-कथेत रीटाचे संवाद लिहिताना नेहमी खालील 3 नियम पाळावेत:
-1. **भाषेचा कॉन्ट्रास्ट:** नीलची भाषा ही मॉडर्न मुंबईकर **Hinglish** आहे (*"चिल कर रीटा", "What the hell"*), तर रीटाची भाषा ही नेहमी **100% शुद्ध, औपचारिक हिंदी (Formal Broadcast Hindi)** असली पाहिजे. ती कधीही "यार", "भाई", "ब्रो" असे शब्द वापरत नाही.
-2. **वन-वे ऑडिओ:** रीटाचा आवाज फक्त नीलच्या कवटीत (Bone-Conduction / Nadi-Link द्वारे) ऐकू येतो. समोरच्या शत्रूला किंवा पात्रांना रीटाचा आवाज ऐकू येत नाही, त्यामुळे नील जेव्हा हवेत बघून किंवा कानशिलावर बोट ठेवून रीटाला उत्तर देतो, तेव्हा समोरच्या लोकांना वाटते की नील स्वतःशीच बडबडणारा एखादा विक्षिप्त वेडा आहे!
-3. **कॅचफ्रेजेस (Signature Phrases):**
-   * *"जमीनी हकीकत यह है कि..."* (प्रत्यक्ष परिस्थिती सांगताना)
-   * *"इस ऐतिहासिक उपलब्धि पर आप कुछ कहना चाहेंगे?"* (नीलचा प्लॅन फसल्यावर)
-   * *"संपादकीय मंडल इस आत्मघाती कदम से पल्ला झाड़ता है।"* (नीलने वेडेपणाचे धाडस केल्यावर)
-   * *"प्रशासन की गरिमा धूल में मिल चुकी है।"* (नील चिखलात किंवा अपमानास्पद स्थितीत पडल्यावर)
-
----
-
-## 7. कॅनॉनिकल शब्दावली व भाषा-नियम (Canonical Vocabulary Standards)
-
-### अ. जे पूर्णपणे वर्ज्य आहेत (Banned Gamer & Sci-Fi Tropes):
-* ❌ **HUD** (हेड-अप डिस्प्ले) — गेमिंग स्क्रीनचा भास होतो.
-* ❌ **Wireframe** (कॉम्प्युटर ग्राफिक्स भासतात).
-* ❌ **Blue Screen / Status Window** (स्वस्त इसेकाई क्लिशे).
-* ❌ **HP/MP Bar किंवा Levels** (व्हिडिओ गेम स्टॅट्स पूर्णपणे निषिद्ध).
-
-### ब. जे आपण अधिकृतपणे वापरणार (Allowed Grounded Physics & Engineering Words):
-नील आणि रीटा हे दोघेही मेकॅनिकल इंजिनिअरिंग व ॲनाटॉमीच्या वास्तववादी शब्दांचा वापर करतात:
-* ✅ **Weak point** (कमकुवत बिंदू / मर्म)
-* ✅ **Center of gravity / Balance** (संतुलन आणि गुरुत्वमध्य)
-* ✅ **Stress points / Fracture lines** (हाडातील किंवा धातूतील ताण आणि भेगा)
-* ✅ **Joint leverage / Angles** (सांध्यांचे कोपरे आणि लीवरेज)
-* ✅ **Impact window** (वार करण्याची नेमकी अचूक वेळ/सेकंद)
-
-### क. ब्रह्मांडातील सनातन समतुल्य संकल्पना (Sanatan & Dhanurveda Equivalents):
-ब्रह्मांडातील ऋषी आणि योद्धे या भौतिक तथ्यांना खालील सनातन संकल्पनांनी ओळखतात:
-* **मर्म-स्थान (Marma-Sthāna):** शरीरातील 107 अति-संवेदनशील प्राण-बिंदू (Weak Points).
-* **संधि-कोण व भार-केंद्र:** सांध्यांची रचना आणि शरीराचा तोल (Joints & Center of Gravity).
-* **कपाल-नाडी व अंतःकर्ण:** इन-स्कल ऑडिओचा मज्जासंस्थेशी असलेला आंतरिक मार्ग.
-* **रेखा-जाल (Rekhā-Jāla):** विश्वातील अदृश्य ताण-रेषा आणि भौमितिक समतोल (समरांगण-सूत्रधार).
-
----
-
-## 8. समनिंग अपघाताचे शास्त्रीय व पौराणिक रहस्य (The Failed Jīvākarṣaṇa Mechanics)
-
-ब्रह्मांडात नीलचा प्रवेश हा कोणताही सहज किंवा दैवी आशीर्वाद नव्हता; तो एका **तांत्रिक समनिंग विधीच्या भीषण स्फोटाचा (Catastrophic Blowout)** परिणाम होता:
-
-1. **सेंट्रल सिटीतील निषिद्ध विधी:** 
-   सेंट्रल सिटीच्या खालच्या स्तरातील तांत्रिकांनी अखाड्यासाठी परलोकातून एका दुर्बल, आज्ञाधारक आत्म्याला ओढण्यासाठी **'जीवाकर्षण अनुष्ठान' (Jīvākarṣaṇa Rite)** सुरू केले होते. सामान्यतः अशा विधीत केवळ 'सूक्ष्म शरीर' (Disembodied Soul) खेचले जाते.
-2. **दादरचे यादृच्छिक धातु-यंत्र (Accidental Physical Yantra):**
-   ज्या क्षणी त्या विधीने वैश्विक ओढ निर्माण केली, त्याच 0.05 सेकंदाला दादरच्या पुलाखाली नीलच्या अंगावरील **अति-शुद्ध जर्मन सिलिकॉन वेफर्सची स्फटिक-जाळी (Crystalline Lattice)**, टायटॅनियम फोन आणि कवटीतील चिप यामुळे एक अनपेक्षित भौतिक यंत्र तयार झाले.
-3. **स्थूल शरीराचा जड भार (The Ballast of Gross Matter):**
-   नीलच्या पोलादी संकल्पामुळे (Śilpa-Ahaṅkāra) त्याचा आत्मा देहापासून वेगळा झाला नाही. सूक्ष्म विधीच्या पोर्टलवर नीलच्या **संपूर्ण रक्त-मांसाच्या स्थूल देहाचा आणि धातूंचा एवढा भीषण भार पडला की ते पोर्टल तुटले!**
-4. **सशरीर गमन (Saśarīra Transit):**
-   महाभारतात ज्याप्रमाणे युधिष्ठिर सशरीर स्वर्गात गेले किंवा दुर्योधनाला कृत्येने सशरीर पाताळात नेले, त्याचप्रमाणे नील त्याच्या कपडे, स्नीकर्स, बॅकपॅक आणि इन-स्कल चिपसह **'सशरीर' (In the Flesh)** ब्रह्मांडात खेचला गेला! तांत्रिकांची वेदी फुटल्यामुळे तो मुख्य अखाड्यात पडण्याऐवजी कित्येक कोस दूर एका दुर्गंधीयुक्त **खाद-गाडीत (Manure Cart)** जाऊन पडला.
+## 3. STRICT CANON GUARDRAILS
+1. **No Cheat System:** RITA cannot scan enemy power levels, translate Astral runes, or predict attacks. She only knows what Neel's physical sensors and inner ear can detect.
+2. **Power Scarcity in Universe B:** Without Neel's prototype phone battery, RITA stays dormant for hours, waking only when adrenaline or bio-electric spikes give her enough milliwatts for 1–2 sentences.
+3. **Canonical `'नही'` Rule:** Always use `नही` (without anusvara dot) in all dialogue.
